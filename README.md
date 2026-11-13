@@ -1,2 +1,2 @@
 # windos5-io-survival
-Windos 5 IO catalog: survival and battle royale .io games
+Survival and BR .io games for Windos 5.

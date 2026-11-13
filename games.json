@@ -1,0 +1,19 @@
+{
+  "repo": "windos5-io-survival",
+  "category": "survival",
+  "count": 12,
+  "games": [
+    {"id": "zombsroyale-io", "name": "ZombsRoyale.io", "sub": "Battle royale", "type": "embed", "url": "https://zombsroyale.io", "preview": "https://www.google.com/s2/favicons?domain=zombsroyale.io&sz=128", "category": "survival"},
+    {"id": "survev-io", "name": "Survev.io", "sub": "Surviv-style BR", "type": "embed", "url": "https://survev.io", "preview": "https://www.google.com/s2/favicons?domain=survev.io&sz=128", "category": "survival"},
+    {"id": "bloxd-io", "name": "Bloxd.io", "sub": "Voxel multiplayer", "type": "embed", "url": "https://bloxd.io", "preview": "https://www.google.com/s2/favicons?domain=bloxd.io&sz=128", "category": "survival"},
+    {"id": "voxiom-io", "name": "Voxiom.io", "sub": "Voxel BR", "type": "embed", "url": "https://voxiom.io", "preview": "https://www.google.com/s2/favicons?domain=voxiom.io&sz=128", "category": "survival"},
+    {"id": "taming-io", "name": "Taming.io", "sub": "Creature taming", "type": "embed", "url": "https://taming.io", "preview": "https://www.google.com/s2/favicons?domain=taming.io&sz=128", "category": "survival"},
+    {"id": "moomoo-io", "name": "MooMoo.io", "sub": "Village survival", "type": "embed", "url": "https://moomoo.io", "preview": "https://www.google.com/s2/favicons?domain=moomoo.io&sz=128", "category": "survival"},
+    {"id": "starve-io", "name": "Starve.io", "sub": "Survival craft", "type": "embed", "url": "https://starve.io", "preview": "https://www.google.com/s2/favicons?domain=starve.io&sz=128", "category": "survival"},
+    {"id": "flyordie-io", "name": "FlyOrDie.io", "sub": "Animal survival", "type": "embed", "url": "https://flyordie.io", "preview": "https://www.google.com/s2/favicons?domain=flyordie.io&sz=128", "category": "survival"},
+    {"id": "buildroyale-io", "name": "BuildRoyale.io", "sub": "Build BR", "type": "embed", "url": "https://buildroyale.io", "preview": "https://www.google.com/s2/favicons?domain=buildroyale.io&sz=128", "category": "survival"},
+    {"id": "zombs-io", "name": "Zombs.io", "sub": "Tower defense", "type": "embed", "url": "https://zombs.io", "preview": "https://www.google.com/s2/favicons?domain=zombs.io&sz=128", "category": "survival"},
+    {"id": "devast-io", "name": "Devast.io", "sub": "Survival", "type": "embed", "url": "https://devast.io", "preview": "https://www.google.com/s2/favicons?domain=devast.io&sz=128", "category": "survival"},
+    {"id": "craftnite-io", "name": "Craftnite.io", "sub": "Survival craft", "type": "embed", "url": "https://craftnite.io", "preview": "https://www.google.com/s2/favicons?domain=craftnite.io&sz=128", "category": "survival"}
+  ]
+}
